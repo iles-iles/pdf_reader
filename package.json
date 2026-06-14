@@ -1,0 +1,21 @@
+{
+  "name": "pdf_reader",
+  "icon": "View/icon.ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "build":{
+   "icon":"View/icon.ico"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ." ,
+    "package" : "electron-builder "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+ 
+  }
+}
